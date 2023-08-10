@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './TO_Do-Docker/App';
+import App from './src';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
